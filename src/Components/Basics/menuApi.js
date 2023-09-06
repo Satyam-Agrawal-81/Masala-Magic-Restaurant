@@ -1,7 +1,7 @@
 const Menu = [
   {
     id: 1,
-    image: "/images/samosa.jpg",
+    image: "/images/Samosa.jpg",
     name: "samosa",
     category: "breakfast",
     price: "10₹",
@@ -12,7 +12,7 @@ const Menu = [
   {
     id: 2,
     image: "/images/Chhola Bhatura.jpg",
-    name: "chola",
+    name: "Chhola Bhatura",
     category: "lunch",
     price: "50₹",
     description:
@@ -20,7 +20,7 @@ const Menu = [
   },
   {
     id: 3,
-    image: "images/Aloo Pakora.jpg",
+    image: "../images/Aloo Pakora.jpg",
     name: "Aloo Pakode",
     category: "evening",
     price: "20₹",
@@ -29,7 +29,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "images/Masala Corn.jpg",
+    image: "/images/Masala Corn.jpg",
     name: "Masala Corn",
     category: "breakfast",
     price: "10₹",
@@ -39,7 +39,7 @@ const Menu = [
   
   {
     id: 5,
-    image: "/images/Pizza.jpg",
+    image: "../images/Pizza.jpg",
     name: "pizza",
     category: "evening",
     price: "80₹",
@@ -76,7 +76,7 @@ const Menu = [
   
   {
     id: 9,
-    image: "images/Maggi Image.jpg",
+    image: "/images/Maggi Image.jpg",
     name: "Maggi",
     category: "evening",
     price: "12₹",
