@@ -1,7 +1,7 @@
 const Menu = [
   {
     id: 1,
-    image: "/images/Samosa.jpg",
+    image: "Masala-Magic-Restaurant/images/Samosa.jpg",
     name: "samosa",
     category: "breakfast",
     price: "10₹",
@@ -11,7 +11,7 @@ const Menu = [
 
   {
     id: 2,
-    image: "/images/Chhola Bhatura.jpg",
+    image: "Masala-Magic-Restaurant/images/Chhola Bhatura.jpg",
     name: "Chhola Bhatura",
     category: "lunch",
     price: "50₹",
@@ -20,7 +20,7 @@ const Menu = [
   },
   {
     id: 3,
-    image: "../images/Aloo Pakora.jpg",
+    image: "Masala-Magic-Restaurant/images/Aloo Pakora.jpg",
     name: "Aloo Pakode",
     category: "evening",
     price: "20₹",
@@ -29,7 +29,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "/images/Masala Corn.jpg",
+    image: "Masala-Magic-Restaurant/images/Masala Corn.jpg",
     name: "Masala Corn",
     category: "breakfast",
     price: "10₹",
@@ -39,7 +39,7 @@ const Menu = [
   
   {
     id: 5,
-    image: "../images/Pizza.jpg",
+    image: "Masala-Magic-Restaurant/images/Pizza.jpg",
     name: "pizza",
     category: "evening",
     price: "80₹",
@@ -48,7 +48,7 @@ const Menu = [
   },
   {
     id: 6,
-    image: "/images/Veg Thali.jpg",
+    image: "Masala-Magic-Restaurant/images/Veg Thali.jpg",
     name: "Veg Thali",
     category: "dinner",
     price: "180₹",
@@ -57,7 +57,7 @@ const Menu = [
   },
   {
     id: 7,
-    image: "/images/sweets.jpg",
+    image: "Masala-Magic-Restaurant/images/sweets.jpg",
     name: "Sweets",
     category: "dinner",
     price: "60₹",
@@ -66,7 +66,7 @@ const Menu = [
   },
   {
     id: 8,
-    image: "/images/rajma rice.jpg",
+    image: "Masala-Magic-Restaurant/images/rajma rice.jpg",
     name: "Rajma Rice",
     category: "lunch",
     price: "60₹",
@@ -76,7 +76,7 @@ const Menu = [
   
   {
     id: 9,
-    image: "/images/Maggi Image.jpg",
+    image: "Masala-Magic-Restaurant/images/Maggi Image.jpg",
     name: "Maggi",
     category: "evening",
     price: "12₹",
