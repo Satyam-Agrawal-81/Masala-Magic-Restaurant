@@ -5,7 +5,7 @@ import MenuCard from './MenuCard';
 import Navbar from './Navbar';
 
 
-const uniqueList =[ ... new Set( Menu.map((curr)=>{
+const uniqueList = [ ...new Set( Menu.map((curr)=>{
   return curr.category;
 })
 ),
