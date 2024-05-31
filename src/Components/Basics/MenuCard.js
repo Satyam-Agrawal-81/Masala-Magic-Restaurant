@@ -11,7 +11,7 @@ const MenuCard = ({menuData}) => {
 
                 //destructuring so same piece of code me bar bar curElem likhne ki need nahi he 
 
-       const {id, name,category,image,description}=curElem;
+       const {id, name,category,image}=curElem;
 
                return(
                 <>

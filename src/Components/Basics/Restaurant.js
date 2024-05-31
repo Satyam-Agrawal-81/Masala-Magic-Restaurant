@@ -5,7 +5,7 @@ import MenuCard from './MenuCard';
 import Navbar from './Navbar';
 
 
-const uniqueList =  [ ... new Set( Menu.map((curr)=>{
+const uniqueList =[ ... new Set( Menu.map((curr)=>{
   return curr.category;
 })
 ),
@@ -15,7 +15,7 @@ console.log(uniqueList);
 
 const Restaurant = () => {
   const [menuData, setMenuData] = React.useState(Menu);
-  const[menuList,setMenuList] =React.useState(uniqueList);
+  const[menuList] =React.useState(uniqueList);
 
   const filterItem = (category)=>{
 
